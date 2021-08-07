@@ -13,13 +13,13 @@ index.html - The Index document for the website.
 
 ### The Website URLs Are:
 #### Access Website via CloudFront URL
-```https://d2hs4g1r0c70v1.cloudfront.net/```
+https://d2hs4g1r0c70v1.cloudfront.net/
 
 #### Access Website via Endpoint URL
-```http://gregudacityfirstproject.s3-website-us-east-1.amazonaws.com/```
+http://gregudacityfirstproject.s3-website-us-east-1.amazonaws.com/
 
 #### Access Website via S3 Object URL
-```http://gregudacityfirstproject.s3.us-east-1.amazonaws.com/index.html```
+http://gregudacityfirstproject.s3.us-east-1.amazonaws.com/index.html
 
 ### Author
 Gregory Otiono
