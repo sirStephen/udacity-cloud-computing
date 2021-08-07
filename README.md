@@ -6,10 +6,10 @@ In this project, I deployed a static website to AWS using S3, CloudFront, and IA
 
 ### The Files Included Are: 
 
-index.html - The Index document for the website.
-/img - The background image file for the website.
-/vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
-/css - CSS files for the website.
+1. index.html - The Index document for the website.
+2. /img - The background image file for the website.
+3. /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
+4. /css - CSS files for the website.
 
 ### The Website URLs Are:
 #### Access Website via CloudFront URL
